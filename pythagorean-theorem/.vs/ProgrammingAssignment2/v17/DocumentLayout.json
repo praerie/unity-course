@@ -1,0 +1,40 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dropbox\\Coursera C# Unity\\1 Intro C# Prog Unity\\Module 2 DTV \u0026 C\\Programming Assignment 2\\materials\\ProgrammingAssignment2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EEFC2835-03F9-4D07-922A-E784E9A9E8E2}|ProgrammingAssignment2\\ProgrammingAssignment2.csproj|d:\\dropbox\\coursera c# unity\\1 intro c# prog unity\\module 2 dtv \u0026 c\\programming assignment 2\\materials\\programmingassignment2\\programmingassignment2\\programmingassignment2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{EEFC2835-03F9-4D07-922A-E784E9A9E8E2}|ProgrammingAssignment2\\ProgrammingAssignment2.csproj|solutionrelative:programmingassignment2\\programmingassignment2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProgrammingAssignment2",
+              "DocumentMoniker": "D:\\Dropbox\\Coursera C# Unity\\1 Intro C# Prog Unity\\Module 2 DTV \u0026 C\\Programming Assignment 2\\materials\\ProgrammingAssignment2\\ProgrammingAssignment2\\ProgrammingAssignment2.csproj",
+              "RelativeDocumentMoniker": "ProgrammingAssignment2\\ProgrammingAssignment2.csproj",
+              "ToolTip": "D:\\Dropbox\\Coursera C# Unity\\1 Intro C# Prog Unity\\Module 2 DTV \u0026 C\\Programming Assignment 2\\materials\\ProgrammingAssignment2\\ProgrammingAssignment2\\ProgrammingAssignment2.csproj",
+              "RelativeToolTip": "ProgrammingAssignment2\\ProgrammingAssignment2.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-02T14:43:08.178Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
